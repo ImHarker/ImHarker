@@ -1,8 +1,6 @@
 <h1 align="center">Hey, I'm Vasco Teixeira</h1>
 <h3 align="center">An Informatics Engineer Student at Universidade de Trás-os-Montes e Alto Douro (UTAD)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imharker&label=Profile%20views&color=0e75b6&style=flat-square" alt="imharker" /> </p>
-
 - 📚 I’m currently studying at [UTAD](https://www.utad.pt/)
 
 - 👨🏻‍💻 Favourite Areas **Full-Stack Dev and Cyber Security**
@@ -26,3 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imharker&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="imharker" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imharker&label=Profile%20views&color=0e75b6&style=flat-square" alt="imharker" /> </p>
