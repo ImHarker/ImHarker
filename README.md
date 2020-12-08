@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imharker&label=Profile%20views&color=0e75b6&style=flat-square" alt="imharker" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imharkerer" target="blank"><img src="https://img.shields.io/twitter/follow/imharkerer?logo=twitter&style=for-the-badge" alt="imharkerer" /></a> </p>
-
 - 📚 I’m currently studying at [UTAD](https://www.utad.pt/)
 
 - 👨🏻‍💻 Favourite Areas **Full-Stack Dev and Cyber Security**
 
-- 🎓 I’m currently coursing **Informatics Engineering 1st year**
+- 🎓 I’m currently coursing **Informatics Engineering (1st year)**
 
-- ⌨️ Languages **A bit of C, C++, C#, python, javascript and java**
+- ⌨️ Languages **A bit of C, C++, C#, Python, JavaScript and Java**
 
-- 💻 Looking to Learn **AI, databases and a little bit of everything**
+- 💻 Looking to Learn **AI, databases and a little bit of everything else**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
