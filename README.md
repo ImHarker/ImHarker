@@ -13,7 +13,7 @@
 
 - 🌍 I'm from **Barcelos, Portugal**
 
-- 🛠 Current project **[Can't Stop Game](https://github.com/ImHarker/CantStopC)**
+- 🛠 Current project **[Battle Ship Game](https://github.com/ImHarker/BattleShipCpp)**
 
 
 <h3 align="left">Languages and Tools:</h3>
