@@ -7,7 +7,7 @@
 
 - 🎓 I’m currently coursing **[Informatics Engineering](https://www.utad.pt/estudar/en/cursos/informatics-engineering/) (1st year)**
 
-- ⌨️ Languages **A bit of C, C++, C#, Python, JavaScript and Java**
+- ⌨️ Languages **C, C++, and a bit of: C#, Python, JavaScript and Java**
 
 - 💻 Looking to Learn **AI, databases and a little bit of everything else**
 
