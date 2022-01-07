@@ -13,7 +13,7 @@
 
 - 🌍 I'm from **Barcelos, Portugal**
 
-- 🛠 Current project **[Battle Ship Game](https://github.com/ImHarker/BattleShipCpp)**
+- 🛠 Current project **[Yacc-Lex-Project](https://github.com/ImHarker/Yac-Lex-Project)**
 
 
 <h3 align="left">Languages and Tools:</h3>
