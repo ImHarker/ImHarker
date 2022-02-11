@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 Favourite Areas **Full-Stack Dev and Cyber Security**
 
-- 🎓 I’m currently coursing **[Informatics Engineering](https://www.utad.pt/estudar/en/cursos/informatics-engineering/) (1st year)**
+- 🎓 I’m currently coursing **[Informatics Engineering](https://www.utad.pt/estudar/en/cursos/informatics-engineering/) (2nd year)**
 
 - ⌨️ Languages **C, C++, and a bit of: C#, Python, JavaScript and Java**
 
