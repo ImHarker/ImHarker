@@ -3,7 +3,7 @@
 
 - 📚 I’m currently studying at **[UTAD](https://www.utad.pt/)**
 
-- 👨🏻‍💻 Favourite Areas **Full-Stack Dev and Cyber Security**
+- 👨🏻‍💻 Favourite Areas **Back End Dev and Cyber Security**
 
 - 🎓 I’m currently coursing **[Informatics Engineering](https://www.utad.pt/estudar/en/cursos/informatics-engineering/) (2nd year)**
 
