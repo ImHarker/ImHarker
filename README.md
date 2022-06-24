@@ -13,7 +13,7 @@
 
 - 🌍 I'm from **Barcelos, Portugal**
 
-- 🛠 Current project **[Yacc-Lex-Project](https://github.com/ImHarker/Yacc-Lex-Project)**
+- 🛠 Current/Last project **[Shopping List APP (WPF and Xamarin)](https://github.com/ImHarker/Lista-de-Compras-WPF-Android)**
 
 
 <h3 align="left">Languages and Tools:</h3>
