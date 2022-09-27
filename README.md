@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 Favourite Areas **Back End Dev and Cyber Security**
 
-- 🎓 I’m currently coursing **[Informatics Engineering](https://www.utad.pt/estudar/en/cursos/informatics-engineering/) (2nd year)**
+- 🎓 I’m currently coursing **[Informatics Engineering](https://www.utad.pt/estudar/en/cursos/informatics-engineering/) (3rd year)**
 
 - ⌨️ Languages **C, C++, and a bit of: C#, Python, JavaScript and Java**
 
