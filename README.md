@@ -13,7 +13,7 @@
 
 - 🌍 I'm from **Barcelos, Portugal**
 
-- 🛠 Current/Last project **[Shopping List APP (WPF and Xamarin)](https://github.com/ImHarker/Lista-de-Compras-WPF-Android)**
+- 🛠 Current/Last project **[Aquarium Simulation in NetLogo](https://github.com/ImHarker/Aquarium-Simulation-NetLogo)**
 
 
 <h3 align="left">Languages and Tools:</h3>
