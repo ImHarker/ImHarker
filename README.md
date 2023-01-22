@@ -13,7 +13,7 @@
 
 - 🌍 I'm from **Barcelos, Portugal**
 
-- 🛠 Current/Last project **[Aquarium Simulation in NetLogo](https://github.com/ImHarker/Aquarium-Simulation-NetLogo)**
+- 🛠 Current/Last project **[EspamaGS - Online Game Store (ASP.NET Core)](https://github.com/ImHarker/EspamaGS)**
 
 
 <h3 align="left">Languages and Tools:</h3>
