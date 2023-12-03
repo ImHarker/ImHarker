@@ -13,7 +13,7 @@
 
 - 🌍 I'm from **Barcelos, Portugal**
 
-- 🛠 Current/Last project **[EspamaGS - Online Game Store (ASP.NET Core)](https://github.com/ImHarker/EspamaGS)**
+- 🛠 Current/Last project **[hLogger - C# Logging Library](https://github.com/ImHarker/hLogger)**
 
 
 <h3 align="left">Languages and Tools:</h3>
