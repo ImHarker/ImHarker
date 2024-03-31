@@ -10,7 +10,7 @@
 
 - 🌍 I'm from **Barcelos, Portugal**
 
-- 🛠 Current/Last project **[hLogger - C# Logging Library](https://github.com/ImHarker/hLogger)**
+- 🛠 Current/Last project **[hOTP - C# Authenticator](https://github.com/ImHarker/hOTP)**
 
 <br />
 
