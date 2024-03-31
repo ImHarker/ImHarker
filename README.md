@@ -1,10 +1,10 @@
 <h1 align="center">Hey, I'm Vasco Teixeira</h1>
 
-- 📚 I’m currently studying at **[UTAD](https://www.utad.pt/)**
+- 📚 BSc Software Engineering at **[UTAD](https://www.utad.pt/)**
 
 - 👨🏻‍💻 Favourite Areas **Back End Dev and Cyber Security**
 
-- 🎓 I’m currently coursing **[Computer Science](https://www.utad.pt/estudar/en/cursos/informatics-engineering/) (3rd year)**
+- 🎓 
 
 - ⌨️ Languages **C, C++, C#**
 
