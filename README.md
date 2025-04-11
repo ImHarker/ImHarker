@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Vasco Teixeira</h1>
 
-- 📚 BSc Informatics Engineering at **[UTAD](https://www.utad.pt/)**
+- 📚 BSc in Informatics Engineering at **[UTAD](https://www.utad.pt/)**
 
 - 👨🏻‍💻 Favourite Areas **Back End Dev and Cyber Security**
 
@@ -9,8 +9,6 @@
 - ⌨️ Languages **C, C++, C#**
 
 - 🌍 I'm from **Barcelos, Portugal**
-
-- 🛠 Current/Last project **[hOTP - C# Authenticator](https://github.com/ImHarker/hOTP)**
 
 <br />
 
