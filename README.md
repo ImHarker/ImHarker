@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Vasco Teixeira</h1>
 
-- 📚 BSc Computer Science at **[UTAD](https://www.utad.pt/)**
+- 📚 BSc Informatics Engineering at **[UTAD](https://www.utad.pt/)**
 
 - 👨🏻‍💻 Favourite Areas **Back End Dev and Cyber Security**
 
